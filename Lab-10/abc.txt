@@ -1,0 +1,5 @@
+Hello World
+Hi, how are you?
+Good Morning
+This is python lab.
+File/IO handling

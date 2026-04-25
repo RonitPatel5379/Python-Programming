@@ -1,0 +1,6 @@
+Hello, this is file 1.
+It contains some sample text.
+Python is easy to learn.
+This is file 2.
+It also contains text data.
+Merging files is useful.
